@@ -1,4 +1,4 @@
-🤖 Machine Learning Model:
+🤖 Multiple Linear Regression in Machine Learning Model:
 
 This Jupyter Notebook presents a complete implementation of machine learning models on a structured and preprocessed dataset. It serves as a practical guide to building, training, and evaluating models using Python's popular data science libraries.
 
